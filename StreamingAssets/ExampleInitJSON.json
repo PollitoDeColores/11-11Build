@@ -1,0 +1,18 @@
+{
+  "currentSessionToken": "abc123",
+  "eventName":"Nombre del Evento",
+  "topBannerUrl": "https://via.placeholder.com/512x128.png?text=Top+Banner",
+  "sideFlagsUrl": "https://via.placeholder.com/128x512.png?text=Side+Flag",
+  "planetSpeed": 1,
+  "spawnTime": 2,
+  "hasSpecialReward": false,
+  "hasSpecialEvent": false,
+  "pointsToReward": false,
+  "pointsToEvent": false,
+  "obsTypes": [
+    { "obj": "Portal2", "spawnPercentage": 0.33333, "isWaiting": false },
+    { "obj": "Portal3", "spawnPercentage": 0.33333, "isWaiting": false },
+    { "obj": "Portal4", "spawnPercentage": 0.33333, "isWaiting": false }
+  ]
+}
+
