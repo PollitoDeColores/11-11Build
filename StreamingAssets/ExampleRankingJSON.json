@@ -1,0 +1,72 @@
+{
+  "ranking": {
+    "players": [
+      {
+        "nombre": "Akira",
+        "rank": 1,
+        "puntaje": 9820,
+        "nivel": 40
+      },
+      {
+        "nombre": "Riko",
+        "rank": 2,
+        "puntaje": 9475,
+        "nivel": 40
+      },
+      {
+        "nombre": "Dante",
+        "rank": 3,
+        "puntaje": 9100,
+        "nivel": 38
+      },
+      {
+        "nombre": "Mika",
+        "rank": 4,
+        "puntaje": 8800,
+        "nivel": 35
+      },
+      {
+        "nombre": "Sora",
+        "rank": 5,
+        "puntaje": 8520,
+        "nivel": 35
+      },
+      {
+        "nombre": "Jin",
+        "rank": 6,
+        "puntaje": 8230,
+        "nivel": 33
+      },
+      {
+        "nombre": "Kaori",
+        "rank": 7,
+        "puntaje": 7985,
+        "nivel": 32
+      },
+      {
+        "nombre": "Takumi",
+        "rank": 8,
+        "puntaje": 7740,
+        "nivel": 27
+      },
+      {
+        "nombre": "Yuna",
+        "rank": 9,
+        "puntaje": 7510,
+        "nivel": 27
+      },
+      {
+        "nombre": "Leo",
+        "rank": 10,
+        "puntaje": 7295,
+        "nivel": 25
+      }
+    ]
+  },
+  "jugador_actual": {
+    "nombre": "Actual",
+    "rank": 32,
+    "puntaje": 5846,
+    "nivel": 16
+  }
+}
